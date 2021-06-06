@@ -19,3 +19,22 @@ https://github.com/howie6879/ITBooks
 https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way
 
 
+## python-web-guide
+
+https://github.com/PegasusWang/python-web-guide
+
+
+## flasky
+
+https://github.com/miguelgrinberg/flasky
+
+## mobi_for_coding
+
+https://github.com/doublehou/mobi_for_coding
+
+## python 100 day
+
+https://github.com/jackfrued/Python-100-Days
+
+
+
